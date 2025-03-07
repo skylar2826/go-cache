@@ -1,6 +1,6 @@
 # 概览
 
-<img src="https://github.com/skylar2826/go-cache/blob/main/readme.assets/image-20250307164203619.png" />
+<img src="https://github.com/skylar2826/go-cache/blob/main/readme.assets/overview.png" />
 
 ## 锁 sync.Mutex
 
