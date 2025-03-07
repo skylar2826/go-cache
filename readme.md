@@ -1,6 +1,10 @@
+# 概览
+
+<img src="https://github.com/skylar2826/go-cache/blob/main/readme.assets/image-20250307164203619.png" />
+
 ## 锁 sync.Mutex
 
-<img src="C:\Users\zhangluyue\Desktop\新建文件夹\锁实现模板 sync.Mutex.assets\未命名表单undefined.png" alt="未命名表单undefined" style="zoom: 50%;" />
+<img src="https://github.com/skylar2826/go-cache/blob/main/readme.assets/mutex.png"  width="400px" />
 
 竞争锁的两种模式：
 
@@ -11,11 +15,11 @@
 
 ### chansend
 
-<img src="C:\Users\zhangluyue\Desktop\新建文件夹\chansend.png" alt="chansend" style="zoom:50%;" />
+<img src="https://github.com/skylar2826/go-cache/blob/main/readme.assets/chansend.png"  width="500px" />
 
 ### chanrecv
 
-<img src="C:\Users\zhangluyue\Desktop\新建文件夹\chanrecv.png" alt="chanrecv" style="zoom:50%;" />
+<img src="https://github.com/skylar2826/go-cache/blob/main/readme.assets/chanrecv.png"  width="500px" />
 
 ## 缓存
 
